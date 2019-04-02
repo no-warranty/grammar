@@ -1,0 +1,27 @@
+{
+  "name": "@no-warranty/grammar",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "build": "scripts/build.js",
+    "clean": "",
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/no-warranty/grammar.git"
+  },
+  "author": "R. B. Wagner <breckwagner@gmail.com>",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/no-warranty/grammar/issues"
+  },
+  "homepage": "https://github.com/no-warranty/grammar#readme",
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.6.0"
+  }
+}
